@@ -1,6 +1,6 @@
 # aziaj
 
-Esperanto "Asian"
+**_Esperanto_** = "_Asian_"
 
 
 
